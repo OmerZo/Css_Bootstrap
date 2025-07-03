@@ -1,0 +1,23 @@
+#title-img {
+    border: 5px solid #996949;
+    border-radius: 10%;
+}
+
+#title-text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
+
+/* .btn-primary {
+    background-color: #996949;
+    border-color: wheat;
+}
+
+.btn-primary:hover {
+  background-color: #e1bd2ddd;
+} */
